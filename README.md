@@ -1,2 +1,2 @@
-# Intro-Connectomics
-This is an intersession course on connectomics.
+# intersession2020
+Repository for intersession 2020 
